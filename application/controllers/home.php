@@ -24,4 +24,10 @@ class home extends CI_Controller {
 		$this->load->view('web/menu');
 		$this->load->view('web/menubawah');
 	}
+	public function desti()
+	{
+		$this->load->view('web/menuatas');
+		$this->load->view('web/destination');
+		$this->load->view('web/menubawah');
+	}
 }

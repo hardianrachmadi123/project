@@ -73,11 +73,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Traveler <em>.</em></a></div>
+					<div id="gtco-logo"><a href="<?php echo site_url('');?>">Traveler <em>.</em></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li><a href="destination.html">Destination</a></li>
+						<li><a href="<?php echo base_url();?>index.php/home/desti">Destination</a></li>
 						<li class="has-dropdown">
 							<a href="#">Travel</a>
 							<ul class="dropdown">
