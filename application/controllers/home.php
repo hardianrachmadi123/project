@@ -45,4 +45,25 @@ class home extends CI_Controller {
 		$this->load->view('web/menubawah');
 	}
 	
+	public function asia()
+	{
+		$this->load->view('web/menuatas');
+		$this->load->view('web/asia');
+		$this->load->view('web/menubawah');
+	}
+	
+	public function america()
+	{
+		$this->load->view('web/menuatas');
+		$this->load->view('web/america');
+		$this->load->view('web/menubawah');
+	}
+	
+	public function afrika()
+	{
+		$this->load->view('web/menuatas');
+		$this->load->view('web/afrika');
+		$this->load->view('web/menubawah');
+	}
+	
 }
