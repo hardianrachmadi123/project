@@ -84,7 +84,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<li><a href="<?php echo base_url();?>index.php/home/eroup">Europe</a></li>
 								<li><a href="<?php echo base_url();?>index.php/home/asia">Asia</a></li>
 								<li><a href="<?php echo base_url();?>index.php/home/america">America</a></li>
-								<li><a href="<?php echo base_url();?>index.php/home/canada">Afrika</a></li>
+								<li><a href="<?php echo base_url();?>index.php/home/afrika">Afrika</a></li>
 							</ul>
 						</li>
 						<li><a href="<?php echo base_url();?>index.php/home/pricing">Pricing</a></li>

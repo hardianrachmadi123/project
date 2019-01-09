@@ -1,4 +1,4 @@
-<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(<?php echo base_url();?>images/back.png)">
+<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(<?php echo base_url();?>images/europe.png)">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
