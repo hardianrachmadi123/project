@@ -81,13 +81,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<li class="has-dropdown">
 							<a href="#">Travel</a>
 							<ul class="dropdown">
-								<li><a href="#">Europe</a></li>
+								<li><a href="<?php echo base_url();?>index.php/home/eroup">Europe</a></li>
 								<li><a href="#">Asia</a></li>
 								<li><a href="#">America</a></li>
 								<li><a href="#">Canada</a></li>
 							</ul>
 						</li>
-						<li><a href="pricing.html">Pricing</a></li>
+						<li><a href="<?php echo base_url();?>index.php/home/pricing">Pricing</a></li>
 						<li><a href="contact.html">Contact</a></li>
 					</ul>	
 				</div>

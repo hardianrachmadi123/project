@@ -30,4 +30,19 @@ class home extends CI_Controller {
 		$this->load->view('web/destination');
 		$this->load->view('web/menubawah');
 	}
+	
+	public function pricing()
+	{
+		$this->load->view('web/menuatas');
+		$this->load->view('web/pricing');
+		$this->load->view('web/menubawah');
+	}
+	
+		public function eroup()
+	{
+		$this->load->view('web/menuatas');
+		$this->load->view('web/eroup');
+		$this->load->view('web/menubawah');
+	}
+	
 }
