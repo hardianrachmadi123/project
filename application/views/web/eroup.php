@@ -27,68 +27,54 @@
 			<div class="row">
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/img_1.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url();?>images/Parque-de-Cabecera.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/img_1.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url();?>images/Parque-de-Cabecera.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>New York, USA</h2>
+							<h2>Parque Decabevera, Spanyol</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="btn btn-primary">Schedule a Trip</span></p>
 						</div>
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/img_2.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url();?>images/Camden-Town-–-London-300x160.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/img_2.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url();?>images/Camden-Town-–-London-300x160.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Seoul, South Korea</h2>
+							<h2>Camden Town, Inggris</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="btn btn-primary">Schedule a Trip</span></p>
 						</div>
 					</a>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/img_3.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url();?>images/Olympiapark-–-Munich.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/img_3.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url();?>images/Olympiapark-–-Munich.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Paris, France</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
-						</div>
-					</a>
-				</div>
-
-
-				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/img_4.jpg" class="fh5co-card-item image-popup">
-						<figure>
-							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/img_4.jpg" alt="Image" class="img-responsive">
-						</figure>
-						<div class="fh5co-text">
-							<h2>Sydney, Australia</h2>
+							<h2>Olympia Park,Jerman</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="btn btn-primary">Schedule a Trip</span></p>
 						</div>
 					</a>
 				</div>
 
+
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/img_5.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url();?>images/romanmusium.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/img_5.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url();?>images/romanmusium.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Greece, Europe</h2>
+							<h2>Roman Museum, Swis</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="btn btn-primary">Schedule a Trip</span></p>
 						</div>
@@ -96,13 +82,27 @@
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/img_6.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url();?>images/Galleria-Vittorio-Emanuele-II-Milan.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/img_6.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url();?>images/Galleria-Vittorio-Emanuele-II-Milan.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Spain, Europe</h2>
+							<h2>Galleria Vittorio Emanele II, Milan</h2>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
+							<p><span class="btn btn-primary">Schedule a Trip</span></p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<a href="<?php echo base_url();?>images/Riviera-di-Livante-–-Liguira-300x160.jpg" class="fh5co-card-item image-popup">
+						<figure>
+							<div class="overlay"><i class="ti-plus"></i></div>
+							<img src="<?php echo base_url();?>images/Riviera-di-Livante-–-Liguira-300x160.jpg" alt="Image" class="img-responsive">
+						</figure>
+						<div class="fh5co-text">
+							<h2>Riviera, Tavante</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="btn btn-primary">Schedule a Trip</span></p>
 						</div>
@@ -110,13 +110,13 @@
 				</div>
 				
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/bali.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url();?>images/Haagse-Markt-–-Den-Haag.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/bali.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url();?>images/Haagse-Markt-–-Den-Haag.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Bali, Indonesia</h2>
+							<h2>Haagse Market, Den Hag</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="btn btn-primary">Schedule a Trip</span></p>
 						</div>
@@ -124,13 +124,13 @@
 				</div>
 				
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/sentosa.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url();?>images/Museum-Vrolik-–-Amsterdam.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/sentosa.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url();?>images/Museum-Vrolik-–-Amsterdam.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Sentosa, Singapore</h2>
+							<h2>Museum Vorlik, Anstrdam</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="btn btn-primary">Schedule a Trip</span></p>
 						</div>
@@ -138,13 +138,13 @@
 				</div>
 				
 				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="<?php echo base_url();?>images/beijing.jpg" class="fh5co-card-item image-popup">
+					<a href="<?php echo base_url();?>images/Bataclan-–-Paris.jpg" class="fh5co-card-item image-popup">
 						<figure>
 							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="<?php echo base_url();?>images/beijing.jpg" alt="Image" class="img-responsive">
+							<img src="<?php echo base_url();?>images/Bataclan-–-Paris.jpg" alt="Image" class="img-responsive">
 						</figure>
 						<div class="fh5co-text">
-							<h2>Beijing,China</h2>
+							<h2>Batadan, Paris</h2>
 							<p>Far far away, behind the word mountains, far from the countries Vokalia..</p>
 							<p><span class="btn btn-primary">Schedule a Trip</span></p>
 						</div>
