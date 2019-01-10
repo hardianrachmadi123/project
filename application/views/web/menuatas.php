@@ -88,7 +88,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							</ul>
 						</li>
 						<li><a href="<?php echo base_url();?>index.php/home/pricing">Pricing</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="<?php echo base_url();?>index.php/home/contact">Contact</a></li>
 					</ul>	
 				</div>
 			</div>

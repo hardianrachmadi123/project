@@ -39,11 +39,10 @@
 					<div class="gtco-widget">
 						<h3>Destination</h3>
 						<ul class="gtco-footer-links">
-							<li><a href="#">Europe</a></li>
-							<li><a href="#">Australia</a></li>
-							<li><a href="#">Asia</a></li>
-							<li><a href="#">Canada</a></li>
-							<li><a href="#">Dubai</a></li>
+							<li><a href="<?php echo base_url();?>index.php/home/eroup">Europe</a></li>
+							<li><a href="<?php echo base_url();?>index.php/home/asia">Asia</a></li>
+							<li><a href="<?php echo base_url();?>index.php/home/america">Amerika</a></li>
+							<li><a href="<?php echo base_url();?>index.php/home/afrika">Afrika</a></li>
 						</ul>
 					</div>
 				</div>
@@ -54,7 +53,7 @@
 						<ul class="gtco-footer-links">
 							<li><a href="#">Luxe Hotel</a></li>
 							<li><a href="#">Italy 5 Star hotel</a></li>
-							<li><a href="#">Dubai Hotel</a></li>
+							<li><a href="#">American Hotel</a></li>
 							<li><a href="#">Deluxe Hotel</a></li>
 							<li><a href="#">BoraBora Hotel</a></li>
 						</ul>
@@ -65,9 +64,9 @@
 					<div class="gtco-widget">
 						<h3>Get In Touch</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +1 234 567 890</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> info@GetTemplates.co</a></li>
-							<li><a href="#"><i class="icon-chat"></i> Live Chat</a></li>
+							<li class="address">Pandaan,pasuruan<br>Jawa Timur</li>
+							<li class="phone"><a href="tel://1234567920">+6285536994214</a></li>
+							<li class="email"><a href="mailto:info@yoursite.com">rachmadihardian@gmail.com</a></li>
 						</ul>
 					</div>
 				</div>
@@ -86,6 +85,7 @@
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-linkedin"></i></a></li>
 							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-instagram"></i></a></li>
 						</ul>
 					</p>
 				</div>
